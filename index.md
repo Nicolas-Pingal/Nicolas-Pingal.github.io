@@ -1,6 +1,6 @@
-<h1> Design Portfolio</h1>
+<h1 align="center"> Design Portfolio</h1>
 <h2> About Me </h2>
-I'm a third-year student at Worcester Polytechnic Institute, studying Computer Science. I assembled this portolio of projects from Human-Computer Interfaces, a class focused on UX design. This class was a fascinating and eye-opening look into the world of designing interfaces, and I look forward to applying what I've learned to future projects.<br/>You can contact me at <a href="mailto:npingal@wpi.edu">npingal@wpi.edu</a>
+I'm a third-year student at Worcester Polytechnic Institute, studying Computer Science. I assembled this portolio of projects from Human-Computer Interfaces, a class focused on UX design. This class was a fascinating and eye-opening look into the world of interface design, and I look forward to applying what I've learned to future projects.<br/>You can contact me at <a href="mailto:npingal@wpi.edu">npingal@wpi.edu</a>
 <h2>Design For Others</h2>
 <p>
   <img  src="https://cdn-images-1.medium.com/max/800/0*evQZ6RWrCFzYU98e">
