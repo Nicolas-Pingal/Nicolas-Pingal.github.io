@@ -4,7 +4,7 @@ I'm a third-year student at Worcester Polytechnic Institute, studying Computer S
 <h3 align="center">Design For Others</h3>
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/0*evQZ6RWrCFzYU98e">
-
+  <br/>
 For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. We redesigned the layout of Technocopia, a local makerspace. <a href="https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f">More...</a>
 </p>
 
@@ -12,7 +12,7 @@ For this project, we were tasked with redesigning a website of a local Worcester
 <p align="center">
  
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*9BQu846C_Si6GO84prY-ag.png">
-  <br/>
+  
 For this project, we were tasked with producing a visualization for a data set of our choosing. We chose to present data on the nutritional content of food, and decided to focus more on presenting it in a compelling manner, rather than presenting it as clearly as possible.  <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
 </p>
 
