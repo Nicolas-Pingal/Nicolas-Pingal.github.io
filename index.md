@@ -31,3 +31,11 @@ For this project, we were tasked with developing a chat bot to address a tense i
   
 For this project, our group was tasked with using an emotion sensing library to create something designed to promote wellbeing. We designed a music-recommendation bot that recommended music designed to make users feel better. <a href="https://medium.com/@nicolas.pingal/design-for-wellbeing-mood-sensing-music-recommendations-1ccdfcd7a188">More...</a>
 </p>
+<h2>Design For Another World</h2>
+<p>
+ 
+  <img src="/Project5.png">
+  
+For this project, our group was tasked with designing a virtual reality application intended to create an immersive experience. We designed a virtual pet in VR, intended to help users relax. <a href="https://medium.com/@nicolas.pingal/design-for-another-world-vr-pet-1bf0f6038937">More...</a>
+</p>
+
